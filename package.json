@@ -1,0 +1,21 @@
+{
+  "name": "temperatureConverter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "temperatureConverter.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodemon ./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "nodemon": "^1.18.3",
+    "save": "^2.3.2"
+  }
+}
